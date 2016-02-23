@@ -1,10 +1,12 @@
 <?php
 
-namespace AppBundle;
+//namespace src\AppBundle\AppBundle;
+namespace src\AppBundle\AppBundle;
 
 //use Symfony\Component\HttpKernel\Bundle\Bundle;
-//use C:\Apache\Apache24\htdocs\ProjetoClientes\vendor\symfony\symfony\src\Symfony\Component\HttpKernel\Bundle;
 use Symfony\Component\HttpKernel\Bundle\Bundle;
+//use C:\Apache\Apache24\htdocs\ProjetoClientes\vendor\symfony\symfony\src\Symfony\Component\HttpKernel\Bundle;
+//use vendor\symfony\symfony\src\Symfony\Component\HttpKernel\Bundle;
 
 class AppBundle extends Bundle
 {
